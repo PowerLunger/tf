@@ -1,5 +1,3 @@
 # Welcome
 
 Dev
-
-your mom
